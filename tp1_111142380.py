@@ -1,7 +1,7 @@
 ﻿def f(x):
     return x**3 + 1
 
-
+# Hello
 while True:
     n = int(input("Entrez un nombre positif inférieur à 10000 (ou 0 pour terminer): "))
     if n < 0:
